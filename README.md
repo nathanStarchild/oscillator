@@ -1,0 +1,2 @@
+# oscillator
+Processing oscillator class
